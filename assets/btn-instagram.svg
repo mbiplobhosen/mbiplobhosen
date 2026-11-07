@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 46" width="150" height="46" role="img" aria-label="Instagram">
+<rect x="1" y="1" width="148" height="44" rx="22.0" fill="#FFFFFF" stroke="#A7E3DD" stroke-width="2"/>
+<circle cx="24" cy="23" r="15" fill="#FDF0DA"/>
+<g transform="translate(14,13) scale(0.833)" fill="none" stroke="#C98A22" stroke-width="2.40" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3.5l1.8-2.5h5.4L16.5 8H20v11H4z"/><circle cx="12" cy="13.3" r="3.4"/></g>
+<text x="50" y="29" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#134E4A">Instagram</text>
+</svg>

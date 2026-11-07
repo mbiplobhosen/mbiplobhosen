@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 177 46" width="177" height="46" role="img" aria-label="ResearchGate">
+<rect x="1" y="1" width="175" height="44" rx="22.0" fill="#FFFFFF" stroke="#A7E3DD" stroke-width="2"/>
+<circle cx="24" cy="23" r="15" fill="#E3F6F3"/>
+<g transform="translate(14,13) scale(0.833)" fill="none" stroke="#0F8B8D" stroke-width="2.40" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5.5c3-1.5 6-1.5 9 .5v13.5c-3-2-6-2-9-.5z"/><path d="M21 5.5c-3-1.5-6-1.5-9 .5v13.5c3-2 6-2 9-.5z"/></g>
+<text x="50" y="29" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#134E4A">ResearchGate</text>
+</svg>

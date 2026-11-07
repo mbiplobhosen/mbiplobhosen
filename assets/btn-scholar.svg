@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195 46" width="195" height="46" role="img" aria-label="Google Scholar">
+<rect x="1" y="1" width="193" height="44" rx="22.0" fill="#FFFFFF" stroke="#A7E3DD" stroke-width="2"/>
+<circle cx="24" cy="23" r="15" fill="#E2F2F8"/>
+<g transform="translate(14,13) scale(0.833)" fill="none" stroke="#2E8DB0" stroke-width="2.40" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/><path d="M22 9v6"/></g>
+<text x="50" y="29" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#134E4A">Google Scholar</text>
+</svg>
