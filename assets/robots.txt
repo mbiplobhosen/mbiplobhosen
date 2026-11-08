@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbiplobhosen.github.io/selfPortfolio/sitemap.xml
