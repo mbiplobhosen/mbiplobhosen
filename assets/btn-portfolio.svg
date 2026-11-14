@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 221 46" width="221" height="46" role="img" aria-label="Portfolio website">
-<rect x="1" y="1" width="219" height="44" rx="22.0" fill="#FFFFFF" stroke="#A7E3DD" stroke-width="2"/>
-<circle cx="24" cy="23" r="15" fill="#E3F6F3"/>
-<g transform="translate(14,13) scale(0.833)" fill="none" stroke="#0F8B8D" stroke-width="2.40" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.6 2.6 3.8 5.6 3.8 9S14.6 18.4 12 21c-2.6-2.6-3.8-5.6-3.8-9S9.4 5.6 12 3z"/></g>
-<text x="50" y="29" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#134E4A">Portfolio website</text>
-</svg>
